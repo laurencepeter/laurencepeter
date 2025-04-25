@@ -37,6 +37,9 @@ The idea of this app was to assist Trinidad and Tobago with the economic relief 
 
 #### Set up the following on Linux:
 - Mail Server
+  
+### Database
+- Oracle Apex (Procedural Language SQL)
 
 # Resume Profile
 
