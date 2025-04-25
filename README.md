@@ -44,11 +44,11 @@ The idea of this app was to assist Trinidad and Tobago with the economic relief 
 # Resume Profile
 
 ## Education
-- Google Cloud Cybersecurity Certificate (In Progress, Google Cloud Skill Boost)
-- Google UX Design Certificate (Nov 2023 - Dec 2024, Coursera)
-- BSc in Internet Technology (2015 - 2018, COSTAATT )
-- AAS in Internet Technology (2012 - 2015, COSTAATT)
-- IT Essentias: PC Hardware and Software (CISCO Networking Academy)
+- ☁️🔐Google Cloud Cybersecurity Certificate (In Progress, Google Cloud Skill Boost)
+- 👩🏻‍💻📓✍🏻💡Google UX Design Certificate (Nov 2023 - Dec 2024, Coursera)
+- 🌐BSc in Internet Technology (2015 - 2018, COSTAATT )
+- 🌐AAS in Internet Technology (2012 - 2015, COSTAATT)
+- 👨🏼‍💻IT Essentias: PC Hardware and Software (CISCO Networking Academy)
 
 ## Experience
 
