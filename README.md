@@ -50,25 +50,29 @@ The idea of this app was to assist Trinidad and Tobago with the economic relief 
 - Created Process Maps for Procuring Hardware/Software (Selected/Nominated for standarization of re-engineering process maps)
 - Scope specifications for Hyper-Converged Infrasture (HCI) for 2024-2025 financial year for Couva/Tabaquite/Talparo Regional Corporation
 - Consulted Networking Infrastrcuture for Public Health Office
-- 
+- Crimped over all RJ-45 ends (poorly done job by contractors)
+- Fixed all keystone jacks (incorrectly punched down by previous contractors)
+   
 
 ## Em Co Technologies
 IT Tech
 Dispatched to service Qualitech and Dentacare
 
-Actve Directory (AD) control
-Server and general system troubleshooting 
-Maintenance of Closed-Circuit Television (CCTV) Network Video Recover(NVR) 
-Run drops
-Labelled Switches and Access Points accordingly.
-Ensured that every device on Network was documented with IP Addresses and location to reduce in person site visits.
-Current State Network Map 
+- Actve Directory (AD) control
+- Server and general system troubleshooting
+- Maintenance of Closed-Circuit Television (CCTV) Network Video Recover(NVR)
+- Run drops
+- Labelled Switches and Access Points accordingly.
+- Ensured that every device on Network was documented with IP Addresses and location to reduce in person site visits.
+- Current State Network Map 
 
 
 ## IT Lab Assistant
-Set up labs, prepare and teach classes.
-Taught students IT Fundaments at a Secondary level when they had free periods.
-Covid-19 - took up administrative duties in addition to general troubleshooting printers, tv's 
+- Set up labs, prepare and teach classes.
+- Taught students IT Fundaments at a Secondary level when they had free periods.
+- Covid-19 - took up administrative duties in addition to general troubleshooting printers, TV's
+- Troubleshoot Internet connectivity
+- Consulted where to add Access Points (APs)
 
 <!--
 **laurencepeter/laurencepeter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
