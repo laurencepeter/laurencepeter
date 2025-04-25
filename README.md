@@ -2,9 +2,10 @@
 
 My name is Laurence and I am a technology enthusiast intererested in all things involved with the advancement of commput
 
- 🔭 I’m currently working on streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
-   Dog Registration for Trinidad and Tobago
-   Using the idea of LocalAppTT, update the front-end of the app to be a hub for multiple uses. By using Flutter we can achieve scalability and adaptability so that        users won't be downloading one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter with a firebase back-    end I plan to complete the initial phase 1 of the project by June 2025. 
+ 🔭 I’m currently working on:
+ - Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
+ - Dog Registration for Trinidad and Tobago.
+ - Using the idea of LocalAppTT, update and transttion the front-end of the app to be a hub for multiple uses. By using Flutter we can achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter with a firebase back-end I plan to complete the initial phase 1 of the project by June 2025. 
 - 🌱 I’m currently learning Cloud Security and Game Design.
 - 🤔 I’m looking forward to learning Google Cloud Security and Game Design using Unreal Engine 5 (UE5).
 - 👯 I’m looking to collaborate with other enthusiasts interested in developing solutions and assisting colleagues properly scoped out projects. 
@@ -35,16 +36,16 @@ The idea of this app was to assist Trinidad and Tobago with the economic relief 
 
 # Resume Profile
 
-# Education
+## Education
 - Google Cloud Cybersecurity Certificate (In Progress, Google Cloud Skill Boost)
 - Google UX Design Certificate (Nov 2023 - Dec 2024, Coursera)
 - BSc in Internet Technology (2015 - 2018, COSTAATT )
 - AAS in Internet Technology (2012 - 2015, COSTAATT)
 - IT Essentias: PC Hardware and Software (CISCO Networking Academy)
 
-# Experience
+## Experience
 
-## Network Assistant 
+### Network Assistant 
 - Current Scope of Network
 - Future Scope of Network
 - Created Process Maps for Procuring Hardware/Software (Selected/Nominated for standarization of re-engineering process maps)
@@ -54,7 +55,7 @@ The idea of this app was to assist Trinidad and Tobago with the economic relief 
 - Fixed all keystone jacks (incorrectly punched down by previous contractors)
    
 
-## Em Co Technologies
+### Em Co Technologies
 IT Tech
 Dispatched to service Qualitech and Dentacare
 
@@ -67,7 +68,7 @@ Dispatched to service Qualitech and Dentacare
 - Current State Network Map 
 
 
-## IT Lab Assistant
+### IT Lab Assistant
 - Set up labs, prepare and teach classes.
 - Taught students IT Fundaments at a Secondary level when they had free periods.
 - Covid-19 - took up administrative duties in addition to general troubleshooting printers, TV's
