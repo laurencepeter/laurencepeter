@@ -16,25 +16,30 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 -   My love for Metroidvania type games. Despite not having a design background, I'm highly motivated to seeing some of my favourite games remade, even if I must do it myself.
 
 
-Portfolio
-Programming
+# Portfolio
+### Programming
 Mobile Shopping App (Trini Thrift Shopper) - No longer maintained 
 E-Commerce study
 Built using Xamarin utilizing Azure Cloud as the backend.
 The idea of this app was to assist Trinidad and Tobago with the economic relief and create a safe environment for users to sell used goods in an efficient and effective way.
 
-Networking/Troubleshooting Hobbies
-Set up the following on Windows Server:
-Active Directory (AD) on Domain
-File Server managed control via AD
-Mail Server
+### Networking/Troubleshooting Hobbies
+#### Set up the following on Windows Server:
+- Active Directory (AD) on Domain
+- File Server managed control via AD
+- Mail Server
 
-Set up the following on Linux:
-Mail Server
+#### Set up the following on Linux:
+- Mail Server
 
-Resume Profile
+# Resume Profile
 
-Education
+# Education
+- Google Cloud Cybersecurity Certificate (In Progress, Google Cloud Skill Boost)
+- Google UX Design Certificate (Nov 2023 - Dec 2024, Coursera)
+- BSc in Internet Technology (2015 - 2018, COSTAATT )
+- AAS in Internet Technology (2012 - 2015, COSTAATT)
+- IT Essentias: PC Hardware and Software (CISCO Networking Academy)
 
 Experience
 
