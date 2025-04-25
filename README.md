@@ -70,9 +70,10 @@ Dispatched to service Qualitech and Dentacare
 
 ### IT Lab Assistant
 - Set up labs, prepare and teach classes.
-- Taught students IT Fundaments at a Secondary level when they had free periods.
-- Covid-19 - took up administrative duties in addition to general troubleshooting printers, TV's
-- Troubleshoot Internet connectivity
+- Taught students IT Fundaments at a Secondary level during their free periods.
+- During the Covid-19 pandemic- additionally, took up administrative duties in addition to assisting and guiding others over the technical wall of E-Learning/Teaching.
+- Learned Google Classroom environment to assist teachers and students prepare and transition into using the platform. 
+- Troubleshoot Internet connectivity during this time was crucial.
 - Consulted where to add Access Points (APs)
 
 <!--
