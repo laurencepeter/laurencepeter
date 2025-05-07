@@ -1,6 +1,6 @@
 ## Hi there Welcome to my Profile 👋
 
-My name is Laurence and I am a technology enthusiast intererested in all things involved with the advancement of commputers.
+My name is Laurence and I am a technology enthusiast intererested in all things involved with the advancement of computers.
 
  🔭 I’m currently working on:
  - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
