@@ -55,13 +55,13 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 ## Experience
 
 ### Network Assistant 
-- Current Scope of Network
-- Future Scope of Network
-- Created Process Maps for Procuring Hardware/Software (Selected/Nominated for standarization of re-engineering process maps)
-- Scope specifications for Hyper-Converged Infrasture (HCI) for 2024-2025 financial year for Couva/Tabaquite/Talparo Regional Corporation
-- Consulted Networking Infrastrcuture for Public Health Office
-- Crimped over all RJ-45 ends (poorly done job by contractors)
+- Current/Future Scope of Network.
+- Created Process Maps for Procuring various services for the ICT Department at Couva/Tabaquite/Talparo Regional Corporation (Nominated for standarization of re-engineering process maps across Corporations).
+- Scope specifications for Hyper-Converged Infrasture (HCI) for 2024-2025 financial year for Couva/Tabaquite/Talparo Regional Corporation.
+- Consulted Networking Infrastrcuture for Public Health Office.
 - Consulted and advised best use case of where to run network drops, fixed issues with faulty keystone jacks, tracked down bad or disconnected lines, re-terminated cables when needed, and made sure everything was working correctly through thorough testing.
+- Side Projects (Dog Registration, LocalAppTT).
+- Electronic Reporting Framework Virtual Machine Application Server configuration.
    
 
 ### Em Co Technologies
@@ -73,7 +73,7 @@ Dispatched to service Qualitech and Dentacare
 - Maintenance of Closed-Circuit Television (CCTV) Network Video Recover(NVR)
 - Installed network drops, fixed issues with faulty keystone jacks, tracked down bad or disconnected lines, re-terminated cables when needed, and made sure everything was working correctly through thorough testing.
 - Labelled Switches and Access Points accordingly.
-- Ensured that every device on Network was documented with IP Addresses and location to reduce in person site visits.
+- Ensured that every port in network cabinet was labelled, documented and mapped. In addition every piece of equipment was documented with IP Addresses and labelled by location to reduce in person site visits.
 - Current State Network Map 
 
 
