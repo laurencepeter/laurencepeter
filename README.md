@@ -5,7 +5,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
  🔭 I’m currently working on:
  - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
  - 🐶Dog Registration for Trinidad and Tobago.
- - 🔧Based on LocalAppTT, update and transttion the front-end of the app to be a hub for multiple uses. By using Flutter we can achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter with a firebase back-end I plan to complete the initial phase 1 of the project by June 2025.⚠️
+ - 🔧Based on LocalAppTT, update and transition the front-end of the app to be a hub for multiple uses. By using Flutter we can achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter with a firebase back-end I plan to complete the initial phase 1 of the project by June 2025.⚠️
 - 🌱 I’m currently learning Cloud Security and Game Design.
 - 🤔 I’m looking forward to learning Google Cloud Security and Game Design using Unreal Engine 5 (UE5).
 - 👯 I’m looking to collaborate with other enthusiasts interested in developing solutions and assisting colleagues properly scope out projects. Helping others set the proper foundation and environments to build and brainstorm their ideas and bring them to life.  
@@ -24,10 +24,10 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 
 # Portfolio
 ### Programming
-Mobile Shopping App (Trini Thrift Shopper) - No longer maintained 
-E-Commerce study
-Built using Xamarin utilizing Azure Cloud as the backend.
-The idea of this app was to assist Trinidad and Tobago with the economic relief and create a safe environment for users to sell used goods in an efficient and effective way.
+- Mobile Shopping App (Trini Thrift Shopper) - No longer maintained 
+- E-Commerce study
+- Built using Xamarin utilizing Azure Cloud as the backend.
+- The idea of this app was to assist Trinidad and Tobago with the economic relief and create a safe environment for users to sell used goods in an efficient and effective way.
 
 ### Networking/Troubleshooting Hobbies
 #### Set up the following on Windows Server:
