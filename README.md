@@ -40,6 +40,8 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
   
 ### Database
 - Oracle Apex (Procedural Language SQL)
+- Microsoft SQL
+- NoSQL Databases (MongoDB)
 
 # Resume Profile
 
