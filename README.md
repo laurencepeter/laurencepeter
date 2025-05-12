@@ -25,7 +25,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 # Portfolio
 ### Programming
 - Mobile Shopping App (Trini Thrift Shopper) - No longer maintained 
-- E-Commerce study
+- E-Commerce study to back Trini Thrift Shopper concept
 - Built using Xamarin utilizing Azure Cloud as the backend.
 - The idea of this app was to assist Trinidad and Tobago with the economic relief and create a safe environment for users to sell used goods in an efficient and effective way.
 
