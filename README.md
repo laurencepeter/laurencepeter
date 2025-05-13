@@ -61,7 +61,8 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 - Consulted Networking Infrastrcuture for Public Health Office.
 - Consulted and advised best use case of where to run network drops, fixed issues with faulty keystone jacks, tracked down bad or disconnected lines, re-terminated cables when needed, and made sure everything was working correctly through thorough testing.
 - Side Projects (Dog Registration, LocalAppTT).
-- Configured Virtual Machines to host the server for the Electronic Reporting Framework (ERF) and Operational Reporting Framework (ORF) Application .
+- Configured Virtual Machines to host the server for the Electronic Reporting Framework (ERF) and Operational Reporting Framework (ORF) Application.
+- Dispatched key fobs to various Municipal Police Stations and  demonstrated how to use with Police vehicles.
    
 
 ### Em Co Technologies
