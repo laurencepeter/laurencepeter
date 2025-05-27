@@ -54,7 +54,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 
 ## Experience
 
-### Network Assistant 
+### Network Assistant - Ministry of Rural Development and Local Government
 - Current/Future Scope of Network.
 - Created Process Maps for Procuring various services for the ICT Department at Couva/Tabaquite/Talparo Regional Corporation (Nominated for standarization of re-engineering process maps across Corporations).
 - Scope specifications for Hyper-Converged Infrasture (HCI) for 2024-2025 financial year for Couva/Tabaquite/Talparo Regional Corporation.
@@ -78,7 +78,7 @@ Dispatched to service Qualitech and Dentacare
 - Current State Network Map 
 
 
-### IT Lab Assistant
+### IT Lab Assistant 
 - Set up labs, prepare and teach classes.
 - Taught students IT Fundaments at a Secondary level during their free periods.
 - During the Covid-19 pandemic- additionally, took up administrative duties in addition to assisting and guiding others over the technical wall of E-Learning/Teaching.
