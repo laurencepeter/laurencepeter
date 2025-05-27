@@ -5,7 +5,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
  🔭 I’m currently working on:
  - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
  - 🐶Dog Registration for Trinidad and Tobago.
- - 🔧Based on LocalAppTT, update and transition the front-end of the app to be a hub for multiple uses. By using Flutter we can achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter with a firebase back-end I plan to complete the initial phase 1 of the project by June 2025.⚠️
+ - 🔧Currently working on doing over the LocalAppTT, update and transition the front-end of the app to be a hub for multiple uses. Utilizing Flutter and other tools to achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter, Virtualbox, Docker and Supabase to complete and self-host to prove the complete the initilization 'init' phase of the project by June 2025. To prove that we can use many open source tools and use in the house IT team to complete this.⚠️
 - 🌱 I’m currently learning Cloud Security and Game Design.
 - 🤔 I’m looking forward to learning Google Cloud Security and Game Design using Unreal Engine 5 (UE5).
 - 👯 I’m looking to collaborate with other enthusiasts interested in developing solutions and assisting colleagues properly scope out projects. Helping others set the proper foundation and environments to build and brainstorm their ideas and bring them to life.  
