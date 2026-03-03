@@ -5,7 +5,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
  🔭 I’m currently working on:
  - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
  - 🐶Dog Registration for Trinidad and Tobago.
- - 🔧Currently reworking the LocalAppTT, adding missing funcationality and transitioning the front-end of the app to be a hub for multiple from my vision of the project. Utilizing Flutter and other tools to achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter, Virtualbox, Docker and Supabase to complete and self-host to prove the complete the initilization 'init' phase of the project by June 2025. To prove that we can use many open source tools and use in the house IT team to complete this.⚠️
+ - 🔧Currently working on a "Trini Hub" project, adding missing funcationality and transitioning the front-end of the app to be a hub for multiple from my vision of the project. Utilizing Flutter and other tools to achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter, Virtualbox, Docker and Supabase to complete and self-host to prove the complete the initilization 'init' phase of the project by June 2025. To prove that we can use many open source tools and use in the house IT team to complete this.⚠️
 - 🌱 I’m currently learning Cloud Security and Game Design.
 - 🤔 I’m looking forward to learning Google Cloud Security and Game Design using Unreal Engine 5 (UE5).
 - 👯 I’m looking to collaborate with other enthusiasts interested in developing solutions and assisting colleagues properly scope out projects. Helping others set the proper foundation and environments to build and brainstorm their ideas and bring them to life.  
@@ -60,7 +60,7 @@ My name is Laurence and I am a technology enthusiast intererested in all things 
 - Scope specifications for Hyper-Converged Infrasture (HCI) for 2024-2025 financial year for Couva/Tabaquite/Talparo Regional Corporation.
 - Consulted Networking Infrastrcuture for Public Health Office.
 - Consulted and advised best use case of where to run network drops, fixed issues with faulty keystone jacks, tracked down bad or disconnected lines, re-terminated cables when needed, and made sure everything was working correctly through thorough testing.
-- Side Projects (Dog Registration, LocalAppTT).
+- Side Projects (Dog Registration, Trini Hub).
 - Configured Virtual Machines to host the server for the Electronic Reporting Framework (ERF) and Operational Reporting Framework (ORF) Application.
 - Dispatched key fobs to various Municipal Police Stations and  demonstrated how to use with Police vehicles.
    
