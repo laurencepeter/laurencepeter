@@ -1,9 +1,9 @@
-## Hi there Welcome to my Profile 👋
+## Hi there Welcome to my Profile 👋 See my work here https://fireydev.com/ 
 
 My name is Laurence and I am a technology enthusiast intererested in all things involved with the advancement of computers.
 
  🔭 I’m currently working on:
- - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Minsitry of Rural Development and Local Government.
+ - 👩🏻‍💻Streamlining the Digitization of Internal Services using Microsoft Sharepoint for The Ministry of Rural Development and Local Government.
  - 🐶Dog Registration for Trinidad and Tobago.
  - 🔧Currently working on a "Trini Hub" project, providing functionality and transitioning the front-end of the app to be a hub for multiple services for my vision of the project. Utilizing Flutter and other open-source tools to achieve scalability and adaptability so that users won't download one (1) app for a single use only. Giving more life into the app by introducing a variety of services. Using Flutter, Virtualbox or a Virtual Private Server(VPS), Docker and Supabase or POSTGRES to complete and self-host to provide proof of concept and complete the initilization 'init' phase of the project by June 2026. The proof of concept shall provide documented and visual proof that we can use many open source tools and utilize the in-house IT team to complete this.⚠️
 - 🌱 I’m currently learning Cloud Security and Game Design.
